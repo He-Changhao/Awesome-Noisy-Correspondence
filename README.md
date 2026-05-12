@@ -322,6 +322,14 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 *Xinpan YUan, Shaomin Xie, Liujie Hua, Chengyuan Zhang, Guihu Zhao,  Lin Yuanbo Wu*
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/38218/42180)
 
+- `[2026 DASFAA]` **Syntax-Aware Dependency Parsing for Dual-Origin Noisy Correspondence in Text-Based Person Search**  
+*Xinpan Yuan, Wenguang Gan, Yuqi Chen, Shaomin Xie, Chengyuan Zhang, Liujie Hua*
+[[paper]](https://link.springer.com/content/pdf/10.1007/978-981-92-0363-5_4.pdf?pdf=inline%20link)
+
+- `[2026 SPL]` **Learning With Dual Noisy Labels for Text-to-Image Person Re-identification**  
+*Zhaopan Xu, Wangbo Zhao, Pengfei Zhou, Panpan Zhang, Xiaojiang Peng, Hongxun Yao*
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11348104)
+
 - `[2025 TPAMI]` **Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning**  
 *Min Cao, Xinyu Zhou, Ding Jiang, Bo Du, Mang Ye, Min Zhang*
 [[paper]](https://github.com/Flame-Chasers/Bi-IRRA)
